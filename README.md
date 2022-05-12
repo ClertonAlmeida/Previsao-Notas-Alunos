@@ -1,4 +1,4 @@
-# Previsao-Notas-Alunos
+# Previsao Notas Alunos
 Previsão de notas do aluno usando Python
 
 Neste projeto utilizei o conjunto de dados que baixei no Kaggle para previsão das notas dos alunos.
